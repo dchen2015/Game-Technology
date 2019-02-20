@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{DB5C04B8-FDD3-29B0-2DE9-14620C73127E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Object Manipulation.cs">
+    <Files>
+      <File FileName="Assets/Object Manipulation.cs" Line="18" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
